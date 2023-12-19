@@ -2,22 +2,25 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+The task here was to analyze Boston housing data and make general 
+predictions using linear regression. 
 
 ## Description
-TODO - How have you solved the problem?
+The problem was solved by loading, analyzing, and visualizing the 
+data using pandas and matplotlib. Finally, the LinearRegression 
+class of sklearn was used to fit a linear model for the median 
+home value as a function of the average number of rooms per dwelling. 
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+The program requires Jupyter Notebook functionality with sklearn, numpy, 
+pandas, and matplotlib. 
 
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
+To execute the program, open the my_tu_verras.ipynb Jupyter notebook 
+and run all cells. No user input is needed. 
 
 ### The Core Team
-
+Andrew Bonham and Nikita Gaidamachenko
 
 <span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
 <span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px' /></span>
