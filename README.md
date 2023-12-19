@@ -16,8 +16,11 @@ The program requires Jupyter Notebook functionality with sklearn, numpy,
 pandas, and matplotlib. 
 
 ## Usage
-To execute the program, open the my_tu_verras.ipynb Jupyter notebook 
-and run all cells. No user input is needed. 
+To execute the program, first download the data via the command 
+
+wget https://storage.googleapis.com/qwasar-public/track-ds/boston.csv
+
+Then open the my_tu_verras.ipynb Jupyter notebook and run all cells. 
 
 ### The Core Team
 Andrew Bonham and Nikita Gaidamachenko
